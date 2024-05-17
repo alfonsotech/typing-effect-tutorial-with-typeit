@@ -1,4 +1,4 @@
-# Code solution for tutprial on using HTML, CSS, JavaScript and the TypeIt utility to create a typing effect on any web page.
+# Code solution for tutorial on using HTML, CSS, JavaScript and the TypeIt utility to create a typing effect on any web page.
 This tutorial covers the basics of creating a typing effect using CSS and JavaScript. You can extend this project by adding more features, such as dynamic text changes, custom cursor styles, and more complex animations.
 
 By following these steps, you can create an engaging typing effect on your website to enhance user interaction and visual appeal.
